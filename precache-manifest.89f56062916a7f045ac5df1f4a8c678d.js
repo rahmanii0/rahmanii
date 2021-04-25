@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "60ed3ba24175c59575ce8697e8128bc3",
+    "revision": "fe1b46967a16b9c6735d514f911ae3bd",
     "url": "/rahmanii/index.html"
   },
   {
@@ -12,7 +12,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/rahmanii/static/css/4.3e7d09e6.chunk.css"
   },
   {
-    "revision": "dca355ab93d9e221bfd5",
+    "revision": "9a6abbc4bb891ecc126d",
     "url": "/rahmanii/static/css/main.aaeb4c04.chunk.css"
   },
   {
@@ -32,8 +32,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/rahmanii/static/js/4.e592748d.chunk.js"
   },
   {
-    "revision": "dca355ab93d9e221bfd5",
-    "url": "/rahmanii/static/js/main.e45c3788.chunk.js"
+    "revision": "9a6abbc4bb891ecc126d",
+    "url": "/rahmanii/static/js/main.6515aa3c.chunk.js"
   },
   {
     "revision": "2d580761df184adf6135",

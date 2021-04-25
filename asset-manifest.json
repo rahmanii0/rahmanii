@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/rahmanii/static/css/main.aaeb4c04.chunk.css",
-    "main.js": "/rahmanii/static/js/main.e45c3788.chunk.js",
-    "main.js.map": "/rahmanii/static/js/main.e45c3788.chunk.js.map",
+    "main.js": "/rahmanii/static/js/main.6515aa3c.chunk.js",
+    "main.js.map": "/rahmanii/static/js/main.6515aa3c.chunk.js.map",
     "runtime-main.js": "/rahmanii/static/js/runtime-main.1180bcc6.js",
     "runtime-main.js.map": "/rahmanii/static/js/runtime-main.1180bcc6.js.map",
     "static/js/2.48886359.chunk.js": "/rahmanii/static/js/2.48886359.chunk.js",
@@ -14,7 +14,7 @@
     "static/js/4.e592748d.chunk.js": "/rahmanii/static/js/4.e592748d.chunk.js",
     "static/js/4.e592748d.chunk.js.map": "/rahmanii/static/js/4.e592748d.chunk.js.map",
     "index.html": "/rahmanii/index.html",
-    "precache-manifest.e2a2c63c25206864b129d576ad90056e.js": "/rahmanii/precache-manifest.e2a2c63c25206864b129d576ad90056e.js",
+    "precache-manifest.89f56062916a7f045ac5df1f4a8c678d.js": "/rahmanii/precache-manifest.89f56062916a7f045ac5df1f4a8c678d.js",
     "service-worker.js": "/rahmanii/service-worker.js",
     "static/css/3.00373544.chunk.css.map": "/rahmanii/static/css/3.00373544.chunk.css.map",
     "static/css/4.3e7d09e6.chunk.css.map": "/rahmanii/static/css/4.3e7d09e6.chunk.css.map",
@@ -41,6 +41,6 @@
     "static/js/runtime-main.1180bcc6.js",
     "static/js/2.48886359.chunk.js",
     "static/css/main.aaeb4c04.chunk.css",
-    "static/js/main.e45c3788.chunk.js"
+    "static/js/main.6515aa3c.chunk.js"
   ]
 }
