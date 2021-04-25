@@ -38,10 +38,10 @@ const skillsSection = {
   title: "What I do",
   subTitle: "CRAZY FULL STACK DEVELOPER WHO WANTS TO EXPLORE EVERY TECH STACK",
   skills: [
-    emoji("Develop well structured Back end code with Php / Node js / Elixir and more ..."
+    emoji("⚡ Develop well structured Back end code with Php / Node js / Elixir and more ..."
     ),
     emoji(
-      "⚡ Develop highly interactive Back end / Front end / User Interfaces for your web and mobile applications"
+      "⚡ Develop highly interactive Front end / User Interfaces for your web and mobile applications"
     ),
     emoji("⚡ Progressive Web Applications ( PWA ) in normal and SPA Stacks"),
     emoji(
@@ -123,7 +123,7 @@ const educationInfo = {
       logo: require("./assets/images/alex-univ.jpeg"),
       subHeader: "B.E.Mechanical And Renewable energy in Agricultural Engineering",
       duration: "September 2017 - April 2021",
-      desc: "Agricultural engineers use computer technology to design machinery",
+      desc: "Agricultural engineers use computer technology and Engineering principles to design solutions that help to develop all Agriculture Aspects and generate energy ",
       // descBullets: [
       //   "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
       //   "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
@@ -134,9 +134,18 @@ const educationInfo = {
       logo: require("./assets/images/route.png"),
       subHeader: "Dip.FullStack Web Development",
       duration: "September 2020 - May 2021",
-      // desc:
-      //   "Ranked top 10% in the program. Took courses about Software Engineering, Web Security, Operating Systems, ...",
+      desc:
+        "Dip in full satck sofware develpoment uisng (html , css , Es6 , reactjs / Nodejs / Mysql / MongoDB",
       // descBullets: ["Lorem ipsum dolor sit amet, consectetur adipiscing elit"]
+    },
+    {
+      schoolName: "Udacity",
+      logo: require("./assets/images/udacity.png"),
+      subHeader: "Sofware Engineering",
+      duration: "September 2016 - Present",
+      desc:
+        "Taking courses about Software Engineering, Operating Systems,Algorithm and so on  ...",
+      descBullets: [" Networking for developers / Linux command line / Full stack Foundations / Relational Databases / Software  development life cycle & Software Architecture & Design "]
     }
   ]
 };
@@ -158,7 +167,16 @@ const techStack = {
     {
       Stack: "Programming",
       progressPercentage: "80%"
-    }
+    },
+    {
+      Stack: "Team Work",
+      progressPercentage: "90%"
+    },
+    {
+      Stack: "Self Learner",
+      progressPercentage: "98%"
+    },
+    
   ],
   displayCodersrank: false // Set true to display codersrank badges section need to changes your username in src/containers/skillProgress/skillProgress.js:17:62, defaults to false
 };
@@ -168,6 +186,17 @@ const techStack = {
 const workExperiences = {
   display: true, //Set it to true to show workExperiences Section
   experience: [
+    {
+      role: "Full stack Sofware Developer",
+      company: "Sindion Technology Ltd",
+      companylogo: require("./assets/images/sindion.jpeg"),
+      date: "April 2020 – present",
+      desc:"Full stack software developer responsible for developing efficient technical solutions with different stacks",
+        descBullets: [
+          "Responsible for developing technical solutions, handling them into efficient code",
+          " Coding Api's, database schemes and relations( Laravel Framework )"
+          ]
+    },
     {
       role: "Back-end Instructor",
       company: "RMZ tech",
@@ -194,7 +223,7 @@ const workExperiences = {
       role: "Full stack Developer",
       company: "TOP LINE",
       companylogo: require("./assets/images/top.png"),
-      date: "Dec 2018 – Sep 2019",
+      date: "December 2018 – September 2019",
       desc:
         "Responsible for developing technical solutions, handling them into efficient code Designing Coding Apis database schemes and relations.",
         descBullets: [
