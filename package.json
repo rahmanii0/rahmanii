@@ -1,6 +1,6 @@
 {
-  "homepage": "https://rahmanii.github.io/rahmanii",
   "name": "rahmanii",
+  "homepage": "https://rahmanii.github.io/rahmanii/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -47,5 +47,4 @@
     "node": "^14.16.1",
     "npm": "^6.14.12"
   }
-
 }

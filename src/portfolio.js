@@ -38,6 +38,8 @@ const skillsSection = {
   title: "What I do",
   subTitle: "CRAZY FULL STACK DEVELOPER WHO WANTS TO EXPLORE EVERY TECH STACK",
   skills: [
+    emoji("Develop well structured Back end code with Php / Node js / Elixir and more ..."
+    ),
     emoji(
       "⚡ Develop highly interactive Back end / Front end / User Interfaces for your web and mobile applications"
     ),
@@ -167,17 +169,6 @@ const workExperiences = {
   display: true, //Set it to true to show workExperiences Section
   experience: [
     {
-      role: "Back end Developer",
-      company: "Ibtikar - ابتكار",
-      companylogo: require("./assets/images/ibtikar.jpeg"),
-      date: "April 2020 – Septemper 2020",
-      desc:"The work experience at Ibtikar was a turning point, as dealing with highly skilled developers, work environment that added a lot to my experiences as a developer",
-      descBullets: [
-        "Responsible for developing technical solutions, handling them into efficient code",
-        " Coding Api's, database schemes and relations( Laravel Framework )"
-      ]
-    },
-    {
       role: "Back-end Instructor",
       company: "RMZ tech",
       companylogo: require("./assets/images/rmz.png"),
@@ -187,6 +178,17 @@ const workExperiences = {
         descBullets: [
           "Responsible for mentoring students to improve their skills to develop technical solutions with PHP (Laravel FrameWork)"
         ]
+    },
+    {
+      role: "Back end Developer",
+      company: "Ibtikar - ابتكار",
+      companylogo: require("./assets/images/ibtikar.jpeg"),
+      date: "April 2020 – Septemper 2020",
+      desc:"The work experience at Ibtikar was a turning point, as dealing with highly skilled developers, work environment that added a lot to my experiences as a developer",
+      descBullets: [
+        "Responsible for developing technical solutions, handling them into efficient code",
+        " Coding Api's, database schemes and relations( Laravel Framework )"
+      ]
     },
     {
       role: "Full stack Developer",
@@ -317,7 +319,7 @@ const blogSection = {
     {
       url:
         "https://dev.to/rahmanii/do-you-know-what-happened-when-paypal-use-nodejs-3jge",
-      title: "Win a Google Assistant Tshirt and $200 in Google Cloud Credits",
+      title: "paypal use nodejs !",
       description:"Do you know what happened when paypal use nodejs?"
     },
     {
