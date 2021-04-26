@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/rahmanii/static/css/main.aaeb4c04.chunk.css",
-    "main.js": "/rahmanii/static/js/main.6515aa3c.chunk.js",
-    "main.js.map": "/rahmanii/static/js/main.6515aa3c.chunk.js.map",
-    "runtime-main.js": "/rahmanii/static/js/runtime-main.1180bcc6.js",
-    "runtime-main.js.map": "/rahmanii/static/js/runtime-main.1180bcc6.js.map",
-    "static/js/2.48886359.chunk.js": "/rahmanii/static/js/2.48886359.chunk.js",
-    "static/js/2.48886359.chunk.js.map": "/rahmanii/static/js/2.48886359.chunk.js.map",
+    "main.js": "/rahmanii/static/js/main.0878f35c.chunk.js",
+    "main.js.map": "/rahmanii/static/js/main.0878f35c.chunk.js.map",
+    "runtime-main.js": "/rahmanii/static/js/runtime-main.74e6e69a.js",
+    "runtime-main.js.map": "/rahmanii/static/js/runtime-main.74e6e69a.js.map",
+    "static/js/2.e097fc8c.chunk.js": "/rahmanii/static/js/2.e097fc8c.chunk.js",
+    "static/js/2.e097fc8c.chunk.js.map": "/rahmanii/static/js/2.e097fc8c.chunk.js.map",
     "static/css/3.00373544.chunk.css": "/rahmanii/static/css/3.00373544.chunk.css",
-    "static/js/3.bd84b5a7.chunk.js": "/rahmanii/static/js/3.bd84b5a7.chunk.js",
-    "static/js/3.bd84b5a7.chunk.js.map": "/rahmanii/static/js/3.bd84b5a7.chunk.js.map",
+    "static/js/3.b024f6af.chunk.js": "/rahmanii/static/js/3.b024f6af.chunk.js",
+    "static/js/3.b024f6af.chunk.js.map": "/rahmanii/static/js/3.b024f6af.chunk.js.map",
     "static/css/4.3e7d09e6.chunk.css": "/rahmanii/static/css/4.3e7d09e6.chunk.css",
-    "static/js/4.e592748d.chunk.js": "/rahmanii/static/js/4.e592748d.chunk.js",
-    "static/js/4.e592748d.chunk.js.map": "/rahmanii/static/js/4.e592748d.chunk.js.map",
+    "static/js/4.03d683ba.chunk.js": "/rahmanii/static/js/4.03d683ba.chunk.js",
+    "static/js/4.03d683ba.chunk.js.map": "/rahmanii/static/js/4.03d683ba.chunk.js.map",
     "index.html": "/rahmanii/index.html",
-    "precache-manifest.89f56062916a7f045ac5df1f4a8c678d.js": "/rahmanii/precache-manifest.89f56062916a7f045ac5df1f4a8c678d.js",
+    "precache-manifest.44e8a091f54f5e6774edd9fe5236e7a0.js": "/rahmanii/precache-manifest.44e8a091f54f5e6774edd9fe5236e7a0.js",
     "service-worker.js": "/rahmanii/service-worker.js",
     "static/css/3.00373544.chunk.css.map": "/rahmanii/static/css/3.00373544.chunk.css.map",
     "static/css/4.3e7d09e6.chunk.css.map": "/rahmanii/static/css/4.3e7d09e6.chunk.css.map",
     "static/css/main.aaeb4c04.chunk.css.map": "/rahmanii/static/css/main.aaeb4c04.chunk.css.map",
-    "static/js/2.48886359.chunk.js.LICENSE.txt": "/rahmanii/static/js/2.48886359.chunk.js.LICENSE.txt",
+    "static/js/2.e097fc8c.chunk.js.LICENSE.txt": "/rahmanii/static/js/2.e097fc8c.chunk.js.LICENSE.txt",
     "static/media/index.css": "/rahmanii/static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/alex-univ.jpeg": "/rahmanii/static/media/alex-univ.8ebce497.jpeg",
     "static/media/codeInLogo.webp": "/rahmanii/static/media/codeInLogo.47a7a717.webp",
@@ -35,12 +35,13 @@
     "static/media/saayaHealthLogo.webp": "/rahmanii/static/media/saayaHealthLogo.25018d29.webp",
     "static/media/skill.svg": "/rahmanii/static/media/skill.34409398.svg",
     "static/media/TalkCard.css": "/rahmanii/static/media/talksCardBack.13780cdd.svg",
-    "static/media/top.png": "/rahmanii/static/media/top.a1eb6619.png"
+    "static/media/top.png": "/rahmanii/static/media/top.a1eb6619.png",
+    "static/media/udacity.png": "/rahmanii/static/media/udacity.935b7885.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.1180bcc6.js",
-    "static/js/2.48886359.chunk.js",
+    "static/js/runtime-main.74e6e69a.js",
+    "static/js/2.e097fc8c.chunk.js",
     "static/css/main.aaeb4c04.chunk.css",
-    "static/js/main.6515aa3c.chunk.js"
+    "static/js/main.0878f35c.chunk.js"
   ]
 }
